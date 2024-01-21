@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: bisque;
+}
+.box {
+    text-align: center;
+    width: 1000px;
+    height: 475px;
+    border: 2px rgb(175, 181, 190);
+    margin-top: 40px;
+    margin-left: 200px;
+   
+
+}
+
+.box1 {
+    width: 1000px;
+    height: 150px;
+    background-color: orange;
+    border: 2px solid white;
+}
+
+.box2 {
+    width: 1000px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid white;
+}
+
+.box3 {
+    width: 1000px;
+    height: 150px;
+    background: green;
+    border: 2px solid white;
+}
+
+.c1 {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+h1{
+    font-famil: serif;
+    text-align: center;
+}
